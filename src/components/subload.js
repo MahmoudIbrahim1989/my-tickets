@@ -5,7 +5,6 @@ import { useSubLoad } from "./useSubLoad";
 
 const SubLoad = ({
   containerSelector,
-  itemId,
   itemSubject,
   itemPriority,
   itemStatus,

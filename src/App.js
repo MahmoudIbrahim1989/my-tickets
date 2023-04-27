@@ -10,7 +10,7 @@ const myArray = {
     "Based on this information we need to implement a page to list tickets.",
 };
 
-const newData = Array(10000).fill(myArray);
+const newData = Array(100001).fill(myArray);
 
 const List = () => (
   <div className="list">
